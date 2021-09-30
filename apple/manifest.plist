@@ -12,7 +12,7 @@
                     <string>software-package</string>
           <-- ipa가 업로드 되어 있는 URL -->
                     <key>url</key>
-                    <string>https://github.com/surnks/surnks.github.io/raw/thinq/playground/LG_Playground.ipa</string>
+                    <string>https://github.com/surnks/surnks.github.io/raw/thinq/apple/LG_Playground.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
