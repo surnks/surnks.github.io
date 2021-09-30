@@ -10,22 +10,18 @@
                 <dict>
                     <key>kind</key>
                     <string>software-package</string>
-          <-- ipa가 업로드 되어 있는 URL -->
                     <key>url</key>
                     <string>https://github.com/surnks/surnks.github.io/raw/thinq/apple/LG_Playground.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
-        <-- Bundle ID 값 -->
                 <key>bundle-identifier</key>
                 <string>com.lge.playground</string>
-        <-- Version 정보(안 바꿔줘도 다운로드 하는데 문제는 없음 -->
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
-        <-- 앱 이름 -->
                 <key>title</key>
                 <string>LG Playground</string>
             </dict>
