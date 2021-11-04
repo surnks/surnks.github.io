@@ -47,7 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-4F924072-5A6E-4D73-BD2D-5026BACF7525.ipa</string>
+					<string>https://www.example.com/LGplayground-4F924072-5A6E-4D73-BD2D-5026BACF7525.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -130,7 +130,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-D64D24E3-A4C8-43F0-8BA0-E13B81CBEF09.ipa</string>
+					<string>https://www.example.com/LGplayground-D64D24E3-A4C8-43F0-8BA0-E13B81CBEF09.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -151,7 +151,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-5F45B84E-EC83-4148-837C-EEA65265E5C9.ipa</string>
+					<string>https://www.example.com/LGplayground-5F45B84E-EC83-4148-837C-EEA65265E5C9.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -170,7 +170,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-F9663F66-A70B-4C83-BE23-19C1534DB9A0.ipa</string>
+					<string>https://www.example.com/LGplayground-F9663F66-A70B-4C83-BE23-19C1534DB9A0.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -410,7 +410,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-8CBD3745-CED7-4B7E-880C-773939537AAC.ipa</string>
+					<string>https://www.example.com/LGplayground-8CBD3745-CED7-4B7E-880C-773939537AAC.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -521,7 +521,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-0370773D-0BA8-44E2-8BC6-5E1A8957C516.ipa</string>
+					<string>https://www.example.com/LGplayground-0370773D-0BA8-44E2-8BC6-5E1A8957C516.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -540,7 +540,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-1CAE3FFF-600A-4AD5-B399-07015BA42874.ipa</string>
+					<string>https://www.example.com/LGplayground-1CAE3FFF-600A-4AD5-B399-07015BA42874.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -560,7 +560,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-DD5ECF01-FB16-43DB-9A57-5A5ACB8E650D.ipa</string>
+					<string>https://www.example.com/LGplayground-DD5ECF01-FB16-43DB-9A57-5A5ACB8E650D.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -633,7 +633,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-364E6D38-DFC3-480C-97BF-FD1EDE62F4B0.ipa</string>
+					<string>https://www.example.com/LGplayground-364E6D38-DFC3-480C-97BF-FD1EDE62F4B0.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -656,7 +656,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-6EFA5A0A-A1AE-4750-B343-42204D52B6D9.ipa</string>
+					<string>https://www.example.com/LGplayground-6EFA5A0A-A1AE-4750-B343-42204D52B6D9.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -735,7 +735,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-D46B9B96-8FAA-4FE9-AB48-A239D1EDCF13.ipa</string>
+					<string>https://www.example.com/LGplayground-D46B9B96-8FAA-4FE9-AB48-A239D1EDCF13.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -923,7 +923,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-03E26DFA-67BA-4F8C-A186-D8DF84699D87.ipa</string>
+					<string>https://www.example.com/LGplayground-03E26DFA-67BA-4F8C-A186-D8DF84699D87.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -944,7 +944,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-5D15B314-9A3B-4335-8A0A-2758B627A5BA.ipa</string>
+					<string>https://www.example.com/LGplayground-5D15B314-9A3B-4335-8A0A-2758B627A5BA.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1463,7 +1463,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-FAFBA735-D255-4CEB-B6E2-B795EE4BBA57.ipa</string>
+					<string>https://www.example.com/LGplayground-FAFBA735-D255-4CEB-B6E2-B795EE4BBA57.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1683,7 +1683,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-5C3D6DC0-48ED-4B72-9BAF-59BDD560AEB9.ipa</string>
+					<string>https://www.example.com/LGplayground-5C3D6DC0-48ED-4B72-9BAF-59BDD560AEB9.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -1702,7 +1702,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-A6E0299B-0DEF-4BB2-86DC-9401C0C707C9.ipa</string>
+					<string>https://www.example.com/LGplayground-A6E0299B-0DEF-4BB2-86DC-9401C0C707C9.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1783,7 +1783,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-E1F165EF-60D4-4A2B-B4DB-7BFDE1F36070.ipa</string>
+					<string>https://www.example.com/LGplayground-E1F165EF-60D4-4A2B-B4DB-7BFDE1F36070.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -1821,7 +1821,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surnks/surnks.github.io/raw/thinq/ipa/LGplayground-478436F8-D3A9-4222-AFB2-B0959BC7E825.ipa</string>
+					<string>https://www.example.com/LGplayground-478436F8-D3A9-4222-AFB2-B0959BC7E825.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
