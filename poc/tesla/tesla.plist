@@ -13,6 +13,18 @@
 					<key>url</key>
 					<string>https://github.com/surnks/surnks.github.io/releases/latest/download/Flutter_Tesla.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/surnks/surnks.github.io/thinq/playground/tesla_app_icon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/surnks/surnks.github.io/thinq/playground/tesla_app_icon.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
